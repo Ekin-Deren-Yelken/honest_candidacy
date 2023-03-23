@@ -1,0 +1,46 @@
+
+Trolley is the payouts platform for the internet economy. Our vision is to unlock the collective economic opportunity of the internet – for everyone – by building a truly global payouts ecosystem. Through our powerful platform and API, Trolley enables businesses to reach workers from all corners of the world and offers creators, on-demand workers, and suppliers the ability to bring their specialized talents to a global market. Businesses use Trolley to automate and manage payouts, collect recipient tax and banking information, and mitigate fraud and risk. The payouts solution of choice for hundreds of businesses, Trolley has made payouts to over 1.1 million different musicians, artists, makers, vendors, and suppliers around the world.
+
+Trolley is seeking a self-driven, analytical individual to join our team as an Analytics Engineer. Reporting to the VP of Product, this role manages the end-to-end data pipeline. You will empower data-informed decisions for the Trolley team and our customers. The ideal candidate will have experience with the toolset required (ELT, Warehousing, BI, etc) and have driven healthy data cultures across organizations.
+In your role you will:
+
+    Extract and load through any means possible. API, CSV, screen scrapers, and more, we deal with it all.
+    Transform and document data for the consumption of others across the team.
+    Scale the Data Pipeline to manage costs, speed, and security trade-offs.
+    Collaborate with internal and external stakeholders to design and develop data flows or dashboards, enabling business operations and reporting.
+    Own and manage the roadmap for the Data Team (both internal and external facing functionality).
+    Collaboration with the Engineering team for best practices around technical management of the Data pipeline, and our platform database.
+    Mature business-wide analysis acumen and enablement.
+    Perform ROI Analysis on Trolley’s company initiatives.
+    Complete other duties and responsibilities as defined by the management team.
+
+About you:
+
+    Experience with end-to-end management of data pipelines.
+    Excellent communication of data-related topics.
+    Strong SQL skills.
+    Experience writing API clients.
+    Experience managing cloud infrastructure.
+    Git expert.
+    Experience using techniques that enable team code ownership (test-driven development, literate code, separation of concerns).
+
+It would be great if you are familiar with:
+
+    Snowflake, where our Data Lake and Data Warehouse are stored dbt, for managing transformations (including documenting and testing) of our data pipeline.
+    Tableau, our Business Intelligence tool.
+    Terraform, for managing our infrastructure.
+    Performance logging and monitoring.
+    AWS Cloud Services (i.e. Lambda and Glue), for writing functions to extract data from.
+
+Interested? We offer:
+
+    Competitive salary and meaningful equity.
+    Join an amazing team of diverse people working together on a common mission.
+    Extended Healthcare benefits including dental, vision, LTD, etc.
+    4 weeks paid vacation per year + public holidays.
+    Pension Plan.
+    Gym Membership allowance.
+    1/2 day Fridays during summer.
+    Central modern office, close to public transport.
+    Choice of the tools you need to do your best.
+
